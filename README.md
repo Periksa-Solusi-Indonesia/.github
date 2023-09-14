@@ -1,7 +1,7 @@
 <h1 align="center">Selamat datang di Periksa.id</h1>
 
 <p align="center">
-  <img src="https://your-image-url.com/your-logo.png" alt="Periksa.id Logo">
+  <img src="https://periksa.id/assetsLanding/img/Logo%20Periksa.id_2019.png" alt="Periksa.id Logo">
 </p>
 
 <p align="center">
